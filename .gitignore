@@ -34,3 +34,5 @@ out/
 *.log
 *.tmp
 *.temp 
+#Electron-builder output
+/dist_electron
